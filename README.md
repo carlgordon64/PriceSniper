@@ -1,2 +1,3 @@
-# PriceSniper
-Directory for instantly comparing game costs from popular sites.
+# PartsDB
+
+Tidied up code, focusing on usability of service.
